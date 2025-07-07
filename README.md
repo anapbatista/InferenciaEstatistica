@@ -43,7 +43,7 @@ Os testes estatísticos indicaram evidências sobre a influência dos hábitos d
 - Ana Paula de Abreu Batista — Nº USP: 12688424  
 - Italo Carlos Martins Bresciani – Nº USP: 15461782  
 - Luiz Gabriel Correia dos Santos – Nº USP: 15639682  
-- João Pedro Barbosa Madeira — Nº USP: [inserir número]
+- João Pedro Barbosa Madeira — Nº USP: 13683038
 
 ## Como executar
 
