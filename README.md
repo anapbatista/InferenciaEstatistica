@@ -1,4 +1,3 @@
-# InferenciaEstatistica
 # Trabalho Prático — Inferência Estatística
 
 ## Objetivo
