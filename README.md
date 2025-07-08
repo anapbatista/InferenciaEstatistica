@@ -30,7 +30,7 @@ Foram realizados os seguintes testes estatísticos para analisar as relações e
   - Teste de Mann-Whitney para comparação de distribuições quando a normalidade não foi assumida.
 
 - **Testes de associação**  
-  - Teste Qui-quadrado para verificar associações entre variáveis categóricas (por exemplo, uso de redes sociais e desempenho).
+  - Teste Qui-quadrado e Correlação de Spearman para verificar associações entre variáveis categóricas (por exemplo, uso de redes sociais e desempenho).
 
 As análises consideraram o nível de significância de 5% para rejeição das hipóteses nulas.
 
