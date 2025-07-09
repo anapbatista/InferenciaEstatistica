@@ -45,6 +45,9 @@ Os testes estatísticos indicaram evidências sobre a influência dos hábitos d
 - Luiz Gabriel Correia dos Santos – Nº USP: 15639682  
 - João Pedro Barbosa Madeira — Nº USP: 13683038
 
+## Video explicativo no Youtube
+- https://youtu.be/8Q-zGMQgnLQ
+
 ## Como executar
 
 1. Instalar as dependências necessárias (`pandas`, `scipy`, `numpy`, entre outras).  
